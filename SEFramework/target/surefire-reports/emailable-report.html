@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 class="param">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Command line test</td><td class="numi">0</td><td class="numi">0</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">40.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<a id="summary"></a>
+<table cellspacing=0 cellpadding=0 class="passed">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Time<br/>(Msecs)</th></tr>
+<tr><th colspan="4">Command line test &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="1">com.projectname.scripts.DriverScriptTest<td><a href="#m1"><b>driverScript</b>  </a></td><td class="numi">1</td><td class="numi">40500</td></tr>
+</table>
+<h1>Command line test</h1>
+<a id="m1"></a><h2>com.projectname.scripts.DriverScriptTest:driverScript</h2>
+<div style="padding-left:3em">
+<p>java.lang.IllegalAccessException--&gt;Class org.openqa.selenium.remote.Augmenter$CompoundHandler can not access a member of class org.openqa.selenium.firefox.FirefoxDriver with modifiers &quot;protected&quot;</p>
+net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:235)
+<br/>at net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:220)
+<br/>at net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:216)
+<br/>at net.sf.cglib.proxy.Enhancer.createUsingReflection(Enhancer.java:640)
+<br/>at net.sf.cglib.proxy.Enhancer.firstInstance(Enhancer.java:538)
+<br/>at net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:225)
+<br/>at net.sf.cglib.proxy.Enhancer.createHelper(Enhancer.java:377)
+<br/>at net.sf.cglib.proxy.Enhancer.create(Enhancer.java:285)
+<br/>at org.openqa.selenium.remote.Augmenter.performAugmentation(Augmenter.java:140)
+<br/>at org.openqa.selenium.remote.Augmenter.create(Augmenter.java:53)
+<br/>at org.openqa.selenium.remote.BaseAugmenter.augment(BaseAugmenter.java:114)
+<br/>at com.projectname.utils.TestUtil.takeScreenShot(TestUtil.java:41)
+<br/>at com.projectname.base.FunctionLibrary.report(FunctionLibrary.java:488)
+<br/>at com.projectname.base.Keywords.controlScript(Keywords.java:151)
+<br/>at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:62)
+<br/>36 lines not shown
+<p>Caused by Class org.openqa.selenium.remote.Augmenter$CompoundHandler can not access a member of class org.openqa.selenium.firefox.FirefoxDriver with modifiers &quot;protected&quot;</p>
+sun.reflect.Reflection.ensureMemberAccess(Reflection.java:109)
+<br/>at java.lang.reflect.AccessibleObject.slowCheckMemberAccess(AccessibleObject.java:261)
+<br/>at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:253)
+<br/>at java.lang.reflect.Method.invoke(Method.java:599)
+<br/>at org.openqa.selenium.remote.Augmenter$CompoundHandler.intercept(Augmenter.java:183)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver$$EnhancerByCGLIB$$bbfec8db.startClient(&lt;generated&gt;)
+<br/>at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:110)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:195)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:190)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:186)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:99)
+<br/>at org.openqa.selenium.firefox.FirefoxDriver$$EnhancerByCGLIB$$bbfec8db.&lt;init&gt;(&lt;generated&gt;)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+<br/>at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+<br/>at net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:228)
+<br/>at net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:220)
+<br/>at net.sf.cglib.core.ReflectUtils.newInstance(ReflectUtils.java:216)
+<br/>at net.sf.cglib.proxy.Enhancer.createUsingReflection(Enhancer.java:640)
+<br/>at net.sf.cglib.proxy.Enhancer.firstInstance(Enhancer.java:538)
+<br/>at net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:225)
+<br/>at net.sf.cglib.proxy.Enhancer.createHelper(Enhancer.java:377)
+<br/>at net.sf.cglib.proxy.Enhancer.create(Enhancer.java:285)
+<br/>at org.openqa.selenium.remote.Augmenter.performAugmentation(Augmenter.java:140)
+<br/>at org.openqa.selenium.remote.Augmenter.create(Augmenter.java:53)
+<br/>at org.openqa.selenium.remote.BaseAugmenter.augment(BaseAugmenter.java:114)
+<br/>at com.projectname.utils.TestUtil.takeScreenShot(TestUtil.java:41)
+<br/>at com.projectname.base.FunctionLibrary.report(FunctionLibrary.java:488)
+<br/>at com.projectname.base.Keywords.controlScript(Keywords.java:151)
+<br/>at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:62)
+<br/>36 lines not shown
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>
