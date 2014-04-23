@@ -33,16 +33,16 @@ public class Keywords extends FunctionLibrary {
 		 for (int k = 1; k < controlshet.getRows(); k++) {
 			 tr=new TestReport();
 			 String desc=controlshet.getCell(1, k).getContents();
-			  String keyword=controlshet.getCell(2, k).getContents();
-			  String keywordtype=controlshet.getCell(3,k).getContents();
-			  String objectProp=controlshet.getCell(4,k).getContents();
-			  String object=OR.getProperty(objectProp);
-			  String data=null;
-			  Object testdata=null;
-			  //Validations
-			  String expData=V.getProperty(objectProp);
-			  //comparision Object
-			  String compairobject=V.getProperty(objectProp);
+			 String keyword=controlshet.getCell(2, k).getContents();
+			 String keywordtype=controlshet.getCell(3,k).getContents();
+			 String objectProp=controlshet.getCell(4,k).getContents();
+			 String object=OR.getProperty(objectProp);
+			 String data=null;
+			 Object testdata=null;
+			 //Validations
+			 String expData=V.getProperty(objectProp);
+			 //comparision Object
+			 String compairobject=V.getProperty(objectProp);
 			
 			  try{
 				  switch(keyword){

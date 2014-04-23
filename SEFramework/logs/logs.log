@@ -1,314 +1,60 @@
-2014-04-18 14:44:44 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
-2014-04-18 14:45:17 INFO  FunctionLibrary:357 - New Release
-2014-04-18 14:45:17 INFO  FunctionLibrary:358 - New Releases
-2014-04-18 14:45:17 INFO  FunctionLibrary:364 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 14:45:17 INFO  FunctionLibrary:365 - Actual - New Releases
-2014-04-18 14:45:17 INFO  FunctionLibrary:366 - Expected -New Release
-2014-04-18 14:45:17 FATAL FunctionLibrary:367 - test verify
-2014-04-18 14:45:17 ERROR FunctionLibrary:368 - error
-2014-04-18 14:45:33 INFO  FunctionLibrary:357 - Download
-2014-04-18 14:45:33 INFO  FunctionLibrary:358 - Downloads
-2014-04-18 14:45:33 INFO  FunctionLibrary:364 - Error in text - //*[@id='sidebar']/nav[1]/header/h3
-2014-04-18 14:45:33 INFO  FunctionLibrary:365 - Actual - Downloads
-2014-04-18 14:45:33 INFO  FunctionLibrary:366 - Expected -Download
-2014-04-18 14:45:33 FATAL FunctionLibrary:367 - test verify
-2014-04-18 14:45:33 ERROR FunctionLibrary:368 - error
-2014-04-18 14:45:42 INFO  FunctionLibrary:357 - CD & Vinyl
-2014-04-18 14:45:42 INFO  FunctionLibrary:358 - CD & Vinyl
-2014-04-18 14:45:53 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
-2014-04-18 15:55:37 INFO  FunctionLibrary:25 - Initialized All Resources Files
-2014-04-18 15:55:37 INFO  FunctionLibrary:27 - Creatng Driver Script Object
-2014-04-18 15:55:37 INFO  FunctionLibrary:29 - Creating Test Suite
-2014-04-18 15:55:37 INFO  FunctionLibrary:31 - Creating Test Suite For Email Report
-2014-04-18 15:55:37 INFO  FunctionLibrary:36 - Creating Suite In Detailed Test Report
-2014-04-18 15:55:37 INFO  FunctionLibrary:38 - Creating Suite In Mailing Report
-2014-04-18 15:55:37 INFO  FunctionLibrary:43 - Creating Excel Sheet For Test Results
-2014-04-18 15:55:37 INFO  FunctionLibrary:47 - Total No.of Test Cases  23.0
-2014-04-18 15:55:37 INFO  FunctionLibrary:48 - Launching Browser
-2014-04-18 15:55:37 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
-2014-04-18 15:56:01 INFO  FunctionLibrary:50 - Loading Controller Work Book
-2014-04-18 15:56:01 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:56:01 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:56:01 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:56:02 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:56:02 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:56:02 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:56:02 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[1]/a
-2014-04-18 15:56:03 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:56:06 INFO  FunctionLibrary:357 - New Release
-2014-04-18 15:56:06 INFO  FunctionLibrary:358 - New Releases
-2014-04-18 15:56:06 INFO  FunctionLibrary:364 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 15:56:06 INFO  FunctionLibrary:365 - Actual - New Releases
-2014-04-18 15:56:06 INFO  FunctionLibrary:366 - Expected -New Release
-2014-04-18 15:56:06 FATAL FunctionLibrary:367 - test verify
-2014-04-18 15:56:06 ERROR FunctionLibrary:368 - error
-2014-04-18 15:56:11 INFO  FunctionLibrary:78 - Selecting DropDown Value Artist Name
-2014-04-18 15:56:12 INFO  FunctionLibrary:78 - Selecting DropDown Value Jan 28, 2014
-2014-04-18 15:56:13 INFO  FunctionLibrary:52 - Clicking on Listing Radiobutton
-2014-04-18 15:56:13 INFO  FunctionLibrary:52 - Clicking on hm_amoeba-recommends Radiobutton
-2014-04-18 15:56:13 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
-2014-04-18 15:56:14 INFO  FunctionLibrary:52 - Clicking on CD Radiobutton
-2014-04-18 15:56:14 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[2]/a
-2014-04-18 15:56:15 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
-2014-04-18 15:56:16 INFO  FunctionLibrary:52 - Clicking on Cassette Radiobutton
-2014-04-18 15:56:16 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[1]/a/strong
-2014-04-18 15:56:17 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:56:17 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:56:17 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:56:17 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:56:17 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:56:17 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:56:18 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[2]/a
-2014-04-18 15:56:18 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:56:25 INFO  FunctionLibrary:357 - Download
-2014-04-18 15:56:25 INFO  FunctionLibrary:358 - Downloads
-2014-04-18 15:56:25 INFO  FunctionLibrary:364 - Error in text - //*[@id='sidebar']/nav[1]/header/h3
-2014-04-18 15:56:25 INFO  FunctionLibrary:365 - Actual - Downloads
-2014-04-18 15:56:25 INFO  FunctionLibrary:366 - Expected -Download
-2014-04-18 15:56:25 FATAL FunctionLibrary:367 - test verify
-2014-04-18 15:56:25 ERROR FunctionLibrary:368 - error
-2014-04-18 15:56:26 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:56:26 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:56:26 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:56:27 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:56:27 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:56:27 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:56:27 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[3]/a
-2014-04-18 15:56:27 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:56:32 INFO  FunctionLibrary:357 - CD & Vinyl
-2014-04-18 15:56:32 INFO  FunctionLibrary:358 - CD & Vinyl
-2014-04-18 15:56:32 INFO  FunctionLibrary:69 - Entering Data into searchbox
-2014-04-18 15:56:33 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='searches']/input[2]
-2014-04-18 15:56:36 INFO  FunctionLibrary:52 - Clicking on Love_And_Conversation Radiobutton
-2014-04-18 15:57:09 INFO  FunctionLibrary:73 - Test Scenario Result --Fail
-2014-04-18 15:57:09 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:09 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:09 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:09 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:09 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:10 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[4]/a
-2014-04-18 15:57:10 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:14 INFO  FunctionLibrary:357 - Music We Like
-2014-04-18 15:57:14 INFO  FunctionLibrary:358 - Music We Like
-2014-04-18 15:57:14 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:14 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:14 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:15 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:15 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:15 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:15 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[5]/a
-2014-04-18 15:57:15 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:18 INFO  FunctionLibrary:357 - Labels
-2014-04-18 15:57:18 INFO  FunctionLibrary:358 - Labels
-2014-04-18 15:57:18 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:19 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:19 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:19 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:19 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:19 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:19 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[6]/a
-2014-04-18 15:57:19 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:23 INFO  FunctionLibrary:357 - Free Download
-2014-04-18 15:57:23 INFO  FunctionLibrary:358 - Free Downloads
-2014-04-18 15:57:23 INFO  FunctionLibrary:364 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 15:57:23 INFO  FunctionLibrary:365 - Actual - Free Downloads
-2014-04-18 15:57:23 INFO  FunctionLibrary:366 - Expected -Free Download
-2014-04-18 15:57:23 FATAL FunctionLibrary:367 - test verify
-2014-04-18 15:57:23 ERROR FunctionLibrary:368 - error
-2014-04-18 15:57:25 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:25 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:25 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:25 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:25 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:25 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:25 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[7]/a
-2014-04-18 15:57:26 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:29 INFO  FunctionLibrary:357 - Top Sellers
-2014-04-18 15:57:29 INFO  FunctionLibrary:358 - Top Sellers
-2014-04-18 15:57:29 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:29 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:29 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:29 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:29 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:29 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:30 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[8]/a
-2014-04-18 15:57:30 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:36 INFO  FunctionLibrary:357 - Vinyl Vaults
-2014-04-18 15:57:36 INFO  FunctionLibrary:358 - Vinyl Vaults
-2014-04-18 15:57:36 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:37 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:37 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:37 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:37 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:37 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 15:57:37 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[9]/a
-2014-04-18 15:57:37 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:41 INFO  FunctionLibrary:357 - Home Grown
-2014-04-18 15:57:41 INFO  FunctionLibrary:358 - Home Grown
-2014-04-18 15:57:41 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:57:42 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:57:42 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:57:42 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:57:42 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:57:42 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 15:57:42 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[1]/a
-2014-04-18 15:57:43 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:57:47 INFO  FunctionLibrary:357 - DVD & Blu-Ray
-2014-04-18 15:57:47 INFO  FunctionLibrary:358 - DVD & Blu-Ray
-2014-04-18 15:57:47 INFO  FunctionLibrary:78 - Selecting DropDown Value Price (High to Low)
-2014-04-18 15:57:47 INFO  FunctionLibrary:52 - Clicking on dvd_recommends Radiobutton
-2014-04-18 15:57:48 INFO  FunctionLibrary:52 - Clicking on dvd_view_list Radiobutton
-2014-04-18 15:57:48 INFO  FunctionLibrary:65 - Clicking on Button Filter By Format
-2014-04-18 15:57:50 INFO  FunctionLibrary:65 - Clicking on Button Filter By Format
-2014-04-18 15:57:52 INFO  FunctionLibrary:52 - Clicking on dvd_format_dvd Radiobutton
-2014-04-18 15:57:53 INFO  FunctionLibrary:52 - Clicking on dvd_format_bluray Radiobutton
-2014-04-18 15:57:54 INFO  FunctionLibrary:65 - Clicking on Button Filter by Type
-2014-04-18 15:57:56 INFO  FunctionLibrary:65 - Clicking on Button Filter by Type
-2014-04-18 15:57:57 INFO  FunctionLibrary:52 - Clicking on dvd_filter_new Radiobutton
-2014-04-18 15:58:32 INFO  FunctionLibrary:73 - Test Scenario Result --Fail
-2014-04-18 15:58:32 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:32 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:32 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:32 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:32 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 15:58:33 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[2]/a
-2014-04-18 15:58:33 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:58:37 INFO  FunctionLibrary:357 - Movies We Like
-2014-04-18 15:58:37 INFO  FunctionLibrary:358 - Movies We Like
-2014-04-18 15:58:37 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:58:37 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:37 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:38 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:38 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:38 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:58:38 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[1]/a
-2014-04-18 15:58:38 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:58:41 INFO  FunctionLibrary:357 - 
-2014-04-18 15:58:41 INFO  FunctionLibrary:358 - Amoeba Music Gift Certificates
-2014-04-18 15:58:41 INFO  FunctionLibrary:364 - Error in text - //*[@id='main']/div[1]/h2
-2014-04-18 15:58:41 INFO  FunctionLibrary:365 - Actual - Amoeba Music Gift Certificates
-2014-04-18 15:58:41 INFO  FunctionLibrary:366 - Expected -null
-2014-04-18 15:58:41 FATAL FunctionLibrary:367 - test verify
-2014-04-18 15:58:41 ERROR FunctionLibrary:368 - error
-2014-04-18 15:58:42 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:58:42 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:42 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:43 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:43 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:43 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:58:43 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[2]/a
-2014-04-18 15:58:43 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:58:47 INFO  FunctionLibrary:357 - Amoeba
-2014-04-18 15:58:47 INFO  FunctionLibrary:358 - Amoeba
-2014-04-18 15:58:47 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:58:47 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:47 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:48 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:48 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:48 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:58:48 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[3]/a
-2014-04-18 15:58:48 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:58:51 INFO  FunctionLibrary:357 - Posters
-2014-04-18 15:58:51 INFO  FunctionLibrary:358 - Posters
-2014-04-18 15:58:51 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:58:52 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:52 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:52 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:52 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:52 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:58:52 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[4]/a
-2014-04-18 15:58:52 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:58:56 INFO  FunctionLibrary:357 - Books
-2014-04-18 15:58:56 INFO  FunctionLibrary:358 - Books
-2014-04-18 15:58:56 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:58:56 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:58:56 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:58:56 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:58:56 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:58:56 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:58:57 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[5]/a
-2014-04-18 15:58:57 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 15:59:00 INFO  FunctionLibrary:357 - Mugs & Gifts
-2014-04-18 15:59:00 INFO  FunctionLibrary:358 - Mugs & Gifts
-2014-04-18 15:59:00 INFO  FunctionLibrary:73 - Test Scenario Result --res
-2014-04-18 15:59:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 15:59:00 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 15:59:00 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 15:59:00 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 15:59:00 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 15:59:00 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[6]/a
-2014-04-18 15:59:01 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:02:45 INFO  FunctionLibrary:25 - Initialized All Resources Files
-2014-04-18 16:02:45 INFO  FunctionLibrary:27 - Creatng Driver Script Object
-2014-04-18 16:02:45 INFO  FunctionLibrary:29 - Creating Test Suite
-2014-04-18 16:02:45 INFO  FunctionLibrary:31 - Creating Test Suite For Email Report
-2014-04-18 16:02:45 INFO  FunctionLibrary:36 - Creating Suite In Detailed Test Report
-2014-04-18 16:02:45 INFO  FunctionLibrary:38 - Creating Suite In Mailing Report
-2014-04-18 16:02:45 INFO  FunctionLibrary:43 - Creating Excel Sheet For Test Results
-2014-04-18 16:02:45 INFO  FunctionLibrary:47 - Total No.of Test Cases  23.0
-2014-04-18 16:02:45 INFO  FunctionLibrary:48 - Launching Browser
-2014-04-18 16:02:45 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
-2014-04-18 16:03:05 INFO  FunctionLibrary:50 - Loading Controller Work Book
-2014-04-18 16:03:05 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:03:05 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:03:05 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:03:06 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:03:06 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:03:06 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:03:06 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[1]/a
-2014-04-18 16:03:07 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:03:09 INFO  FunctionLibrary:358 - New Release
-2014-04-18 16:03:09 INFO  FunctionLibrary:359 - New Releases
-2014-04-18 16:03:09 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 16:03:09 INFO  FunctionLibrary:366 - Actual - New Releases
-2014-04-18 16:03:09 INFO  FunctionLibrary:367 - Expected -New Release
-2014-04-18 16:03:09 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:03:09 ERROR FunctionLibrary:369 - error
-2014-04-18 16:03:12 INFO  FunctionLibrary:78 - Selecting DropDown Value Artist Name
-2014-04-18 16:03:15 INFO  FunctionLibrary:78 - Selecting DropDown Value Jan 28, 2014
-2014-04-18 16:03:15 INFO  FunctionLibrary:52 - Clicking on Listing Radiobutton
-2014-04-18 16:03:16 INFO  FunctionLibrary:52 - Clicking on hm_amoeba-recommends Radiobutton
-2014-04-18 16:03:16 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
-2014-04-18 16:03:16 INFO  FunctionLibrary:52 - Clicking on CD Radiobutton
-2014-04-18 16:03:17 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[2]/a
-2014-04-18 16:03:18 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
-2014-04-18 16:03:18 INFO  FunctionLibrary:52 - Clicking on Cassette Radiobutton
-2014-04-18 16:03:18 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[1]/a/strong
-2014-04-18 16:03:19 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:03:19 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:03:19 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:03:20 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:03:20 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:03:20 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:03:21 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[2]/a
-2014-04-18 16:03:21 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:03:27 INFO  FunctionLibrary:358 - Download
-2014-04-18 16:03:27 INFO  FunctionLibrary:359 - Downloads
-2014-04-18 16:03:27 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav[1]/header/h3
-2014-04-18 16:03:27 INFO  FunctionLibrary:366 - Actual - Downloads
-2014-04-18 16:03:27 INFO  FunctionLibrary:367 - Expected -Download
-2014-04-18 16:03:27 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:03:27 ERROR FunctionLibrary:369 - error
-2014-04-18 16:03:29 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:03:29 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:03:29 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:03:29 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:03:29 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:03:29 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:03:30 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[3]/a
-2014-04-18 16:03:30 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:03:35 INFO  FunctionLibrary:358 - CD & Vinyl
-2014-04-18 16:03:35 INFO  FunctionLibrary:359 - CD & Vinyl
-2014-04-18 16:03:35 INFO  FunctionLibrary:69 - Entering Data into searchbox
-2014-04-18 16:03:36 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='searches']/input[2]
-2014-04-18 16:03:38 INFO  FunctionLibrary:52 - Clicking on Love_And_Conversation Radiobutton
-2014-04-18 16:04:10 INFO  FunctionLibrary:174 - 
+2014-04-23 17:40:20 INFO  FunctionLibrary:25 - Initialized All Resources Files
+2014-04-23 17:40:20 INFO  FunctionLibrary:27 - Creatng Driver Script Object
+2014-04-23 17:40:20 INFO  FunctionLibrary:29 - Creating Test Suite
+2014-04-23 17:40:20 INFO  FunctionLibrary:31 - Creating Test Suite For Email Report
+2014-04-23 17:40:20 INFO  FunctionLibrary:36 - Creating Suite In Detailed Test Report
+2014-04-23 17:40:20 INFO  FunctionLibrary:38 - Creating Suite In Mailing Report
+2014-04-23 17:40:20 INFO  FunctionLibrary:43 - Creating Excel Sheet For Test Results
+2014-04-23 17:40:21 INFO  FunctionLibrary:47 - Total No.of Test Cases  23.0
+2014-04-23 17:40:21 INFO  FunctionLibrary:48 - Launching Browser
+2014-04-23 17:40:21 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
+2014-04-23 17:40:51 INFO  FunctionLibrary:50 - Loading Controller Work Book
+2014-04-23 17:40:51 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:40:51 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:40:51 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
+2014-04-23 17:40:51 INFO  FunctionLibrary:62 - Loading Test Data Work Book
+2014-04-23 17:40:51 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
+2014-04-23 17:40:51 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
+2014-04-23 17:40:52 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[1]/a
+2014-04-23 17:40:52 INFO  FunctionLibrary:87 - Verifying Text
+2014-04-23 17:40:59 INFO  FunctionLibrary:358 - New Release
+2014-04-23 17:40:59 INFO  FunctionLibrary:359 - New Releases
+2014-04-23 17:40:59 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
+2014-04-23 17:40:59 INFO  FunctionLibrary:366 - Actual - New Releases
+2014-04-23 17:40:59 INFO  FunctionLibrary:367 - Expected -New Release
+2014-04-23 17:40:59 FATAL FunctionLibrary:368 - test verify
+2014-04-23 17:40:59 ERROR FunctionLibrary:369 - error
+2014-04-23 17:41:02 INFO  FunctionLibrary:78 - Selecting DropDown Value Artist Name
+2014-04-23 17:41:03 INFO  FunctionLibrary:78 - Selecting DropDown Value Jan 28, 2014
+2014-04-23 17:41:04 INFO  FunctionLibrary:52 - Clicking on Listing Radiobutton
+2014-04-23 17:41:04 INFO  FunctionLibrary:52 - Clicking on hm_amoeba-recommends Radiobutton
+2014-04-23 17:41:05 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
+2014-04-23 17:41:05 INFO  FunctionLibrary:52 - Clicking on CD Radiobutton
+2014-04-23 17:41:05 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[2]/a
+2014-04-23 17:41:07 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
+2014-04-23 17:41:07 INFO  FunctionLibrary:52 - Clicking on Cassette Radiobutton
+2014-04-23 17:41:08 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[1]/a/strong
+2014-04-23 17:41:09 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
+2014-04-23 17:41:09 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:09 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:09 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
+2014-04-23 17:41:10 INFO  FunctionLibrary:62 - Loading Test Data Work Book
+2014-04-23 17:41:10 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
+2014-04-23 17:41:10 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
+2014-04-23 17:41:11 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[3]/a
+2014-04-23 17:41:11 INFO  FunctionLibrary:87 - Verifying Text
+2014-04-23 17:41:14 INFO  FunctionLibrary:358 - CD & Vinyl
+2014-04-23 17:41:14 INFO  FunctionLibrary:359 - CD & Vinyl
+2014-04-23 17:41:14 INFO  FunctionLibrary:69 - Entering Data into searchbox
+2014-04-23 17:41:15 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='searches']/input[2]
+2014-04-23 17:41:25 INFO  FunctionLibrary:52 - Clicking on Love_And_Conversation Radiobutton
+2014-04-23 17:41:58 INFO  FunctionLibrary:174 - 
 org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Love And Conversation (LP)"}
-Command duration or timeout: 10.19 seconds
+Command duration or timeout: 10.15 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
 System info: host: 'Santhosh-E4310', ip: '172.16.0.118', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
-Session ID: fdfd4026-af80-49ad-ab84-7bc2d2db7515
+Session ID: 5c8e578d-b8ce-4b20-9f8c-828f27f28469
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=28.0}]
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
@@ -354,384 +100,160 @@ Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unabl
 Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
 System info: host: 'Santhosh-E4310', ip: '172.16.0.118', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
 Driver info: driver.version: unknown
-	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous3474337363114184658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
-	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous3474337363114184658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396)
-2014-04-18 16:04:11 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:04:11 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:11 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:12 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:12 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:12 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:12 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[4]/a
-2014-04-18 16:04:12 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:17 INFO  FunctionLibrary:358 - Music We Like
-2014-04-18 16:04:17 INFO  FunctionLibrary:359 - Music We Like
-2014-04-18 16:04:17 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:04:17 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:17 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:18 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:18 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:18 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:18 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[5]/a
-2014-04-18 16:04:18 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:21 INFO  FunctionLibrary:358 - Labels
-2014-04-18 16:04:21 INFO  FunctionLibrary:359 - Labels
-2014-04-18 16:04:21 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:04:21 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:21 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:22 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:22 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:22 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:22 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[6]/a
-2014-04-18 16:04:22 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:26 INFO  FunctionLibrary:358 - Free Download
-2014-04-18 16:04:26 INFO  FunctionLibrary:359 - Free Downloads
-2014-04-18 16:04:26 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 16:04:26 INFO  FunctionLibrary:366 - Actual - Free Downloads
-2014-04-18 16:04:26 INFO  FunctionLibrary:367 - Expected -Free Download
-2014-04-18 16:04:26 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:04:26 ERROR FunctionLibrary:369 - error
-2014-04-18 16:04:28 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:04:28 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:28 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:28 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:28 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:28 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:29 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[7]/a
-2014-04-18 16:04:29 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:32 INFO  FunctionLibrary:358 - Top Sellers
-2014-04-18 16:04:32 INFO  FunctionLibrary:359 - Top Sellers
-2014-04-18 16:04:32 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:04:32 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:32 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:32 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:32 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:32 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:33 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[8]/a
-2014-04-18 16:04:33 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:40 INFO  FunctionLibrary:358 - Vinyl Vaults
-2014-04-18 16:04:40 INFO  FunctionLibrary:359 - Vinyl Vaults
-2014-04-18 16:04:40 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:04:40 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:40 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:40 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:40 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:40 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:04:40 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[9]/a
-2014-04-18 16:04:41 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:45 INFO  FunctionLibrary:358 - Home Grown
-2014-04-18 16:04:45 INFO  FunctionLibrary:359 - Home Grown
-2014-04-18 16:04:45 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:04:46 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:04:46 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:04:46 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:04:46 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:04:46 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 16:04:46 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[1]/a
-2014-04-18 16:04:46 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:04:50 INFO  FunctionLibrary:358 - DVD & Blu-Ray
-2014-04-18 16:04:50 INFO  FunctionLibrary:359 - DVD & Blu-Ray
-2014-04-18 16:04:50 INFO  FunctionLibrary:78 - Selecting DropDown Value Price (High to Low)
-2014-04-18 16:04:51 INFO  FunctionLibrary:52 - Clicking on dvd_recommends Radiobutton
-2014-04-18 16:04:51 INFO  FunctionLibrary:52 - Clicking on dvd_view_list Radiobutton
-2014-04-18 16:04:52 INFO  FunctionLibrary:65 - Clicking on Button Filter By Format
-2014-04-18 16:04:55 INFO  FunctionLibrary:65 - Clicking on Button Filter By Format
-2014-04-18 16:04:56 INFO  FunctionLibrary:52 - Clicking on dvd_format_dvd Radiobutton
-2014-04-18 16:04:57 INFO  FunctionLibrary:52 - Clicking on dvd_format_bluray Radiobutton
-2014-04-18 16:04:57 INFO  FunctionLibrary:65 - Clicking on Button Filter by Type
-2014-04-18 16:05:00 INFO  FunctionLibrary:65 - Clicking on Button Filter by Type
-2014-04-18 16:05:01 INFO  FunctionLibrary:52 - Clicking on dvd_filter_new Radiobutton
-2014-04-18 16:05:33 INFO  FunctionLibrary:174 - 
-org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"filter_new"}
-Command duration or timeout: 10.17 seconds
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous6420784638244002440webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous6420784638244002440webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396)
+2014-04-23 17:41:59 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:41:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:46:31 INFO  FunctionLibrary:25 - Initialized All Resources Files
+2014-04-23 17:46:31 INFO  FunctionLibrary:27 - Creatng Driver Script Object
+2014-04-23 17:46:31 INFO  FunctionLibrary:29 - Creating Test Suite
+2014-04-23 17:46:31 INFO  FunctionLibrary:31 - Creating Test Suite For Email Report
+2014-04-23 17:46:31 INFO  FunctionLibrary:36 - Creating Suite In Detailed Test Report
+2014-04-23 17:46:31 INFO  FunctionLibrary:38 - Creating Suite In Mailing Report
+2014-04-23 17:46:31 INFO  FunctionLibrary:43 - Creating Excel Sheet For Test Results
+2014-04-23 17:46:31 INFO  FunctionLibrary:47 - Total No.of Test Cases  23.0
+2014-04-23 17:46:31 INFO  FunctionLibrary:48 - Launching Browser
+2014-04-23 17:46:31 INFO  FunctionLibrary:216 - Launching Mozilla Firefox.......
+2014-04-23 17:46:59 INFO  FunctionLibrary:50 - Loading Controller Work Book
+2014-04-23 17:46:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:46:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:46:59 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
+2014-04-23 17:47:00 INFO  FunctionLibrary:62 - Loading Test Data Work Book
+2014-04-23 17:47:00 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
+2014-04-23 17:47:00 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
+2014-04-23 17:47:00 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[1]/a
+2014-04-23 17:47:01 INFO  FunctionLibrary:87 - Verifying Text
+2014-04-23 17:47:07 INFO  FunctionLibrary:358 - New Release
+2014-04-23 17:47:07 INFO  FunctionLibrary:359 - New Releases
+2014-04-23 17:47:07 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
+2014-04-23 17:47:07 INFO  FunctionLibrary:366 - Actual - New Releases
+2014-04-23 17:47:07 INFO  FunctionLibrary:367 - Expected -New Release
+2014-04-23 17:47:07 FATAL FunctionLibrary:368 - test verify
+2014-04-23 17:47:07 ERROR FunctionLibrary:369 - error
+2014-04-23 17:47:10 INFO  FunctionLibrary:78 - Selecting DropDown Value Artist Name
+2014-04-23 17:47:11 INFO  FunctionLibrary:78 - Selecting DropDown Value Jan 28, 2014
+2014-04-23 17:47:11 INFO  FunctionLibrary:52 - Clicking on Listing Radiobutton
+2014-04-23 17:47:12 INFO  FunctionLibrary:52 - Clicking on hm_amoeba-recommends Radiobutton
+2014-04-23 17:47:12 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
+2014-04-23 17:47:13 INFO  FunctionLibrary:52 - Clicking on CD Radiobutton
+2014-04-23 17:47:13 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[2]/a
+2014-04-23 17:47:14 INFO  FunctionLibrary:52 - Clicking on Upcoming Radiobutton
+2014-04-23 17:47:14 INFO  FunctionLibrary:52 - Clicking on Cassette Radiobutton
+2014-04-23 17:47:15 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='genre-picker']/li[1]/a/strong
+2014-04-23 17:47:16 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
+2014-04-23 17:47:16 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:47:16 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:47:16 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
+2014-04-23 17:47:16 INFO  FunctionLibrary:62 - Loading Test Data Work Book
+2014-04-23 17:47:16 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
+2014-04-23 17:47:16 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
+2014-04-23 17:47:17 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[3]/a
+2014-04-23 17:47:17 INFO  FunctionLibrary:87 - Verifying Text
+2014-04-23 17:47:21 INFO  FunctionLibrary:358 - CD & Vinyl
+2014-04-23 17:47:21 INFO  FunctionLibrary:359 - CD & Vinyl
+2014-04-23 17:47:21 INFO  FunctionLibrary:69 - Entering Data into searchbox
+2014-04-23 17:47:21 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='searches']/input[2]
+2014-04-23 17:47:27 INFO  FunctionLibrary:52 - Clicking on Love_And_Conversation Radiobutton
+2014-04-23 17:47:59 INFO  FunctionLibrary:174 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Love And Conversation (LP)"}
+Command duration or timeout: 10.16 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
 System info: host: 'Santhosh-E4310', ip: '172.16.0.118', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
-Session ID: fdfd4026-af80-49ad-ab84-7bc2d2db7515
+Session ID: 552c81d8-8b05-45be-92a0-824f71f9205a
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=28.0}]
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)
-	at org.openqa.selenium.By$ById.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:356)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:248)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
-	at com.projectname.base.Keywords.welement(Keywords.java:309)
+	at com.projectname.base.Keywords.welement(Keywords.java:317)
 	at com.projectname.base.Keywords.actionElement(Keywords.java:236)
 	at com.projectname.base.Keywords.controlScript(Keywords.java:54)
 	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:72)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:673)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
 	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
-	at org.testng.TestNG.run(TestNG.java:1057)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
-Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"id","selector":"filter_new"}
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"link text","selector":"Love And Conversation (LP)"}
 Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
 System info: host: 'Santhosh-E4310', ip: '172.16.0.118', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
 Driver info: driver.version: unknown
-	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous3474337363114184658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
-	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous3474337363114184658webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396)
-2014-04-18 16:05:35 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:05:36 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:36 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:36 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:36 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:36 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 16:05:36 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[2]/a
-2014-04-18 16:05:37 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:05:41 INFO  FunctionLibrary:358 - Movies We Like
-2014-04-18 16:05:41 INFO  FunctionLibrary:359 - Movies We Like
-2014-04-18 16:05:41 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:05:41 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:41 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:42 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:42 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:42 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:05:42 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[1]/a
-2014-04-18 16:05:42 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:05:45 INFO  FunctionLibrary:358 - 
-2014-04-18 16:05:45 INFO  FunctionLibrary:359 - Amoeba Music Gift Certificates
-2014-04-18 16:05:45 INFO  FunctionLibrary:365 - Error in text - //*[@id='main']/div[1]/h2
-2014-04-18 16:05:45 INFO  FunctionLibrary:366 - Actual - Amoeba Music Gift Certificates
-2014-04-18 16:05:45 INFO  FunctionLibrary:367 - Expected -null
-2014-04-18 16:05:45 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:05:45 ERROR FunctionLibrary:369 - error
-2014-04-18 16:05:46 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:05:46 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:46 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:46 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:46 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:46 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:05:47 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[2]/a
-2014-04-18 16:05:47 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:05:51 INFO  FunctionLibrary:358 - Amoeba
-2014-04-18 16:05:51 INFO  FunctionLibrary:359 - Amoeba
-2014-04-18 16:05:51 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:05:51 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:51 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:51 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:51 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:51 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:05:52 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[3]/a
-2014-04-18 16:05:52 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:05:55 INFO  FunctionLibrary:358 - Posters
-2014-04-18 16:05:55 INFO  FunctionLibrary:359 - Posters
-2014-04-18 16:05:55 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:05:55 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:55 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:55 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:55 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:55 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:05:56 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[4]/a
-2014-04-18 16:05:56 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:05:59 INFO  FunctionLibrary:358 - Books
-2014-04-18 16:05:59 INFO  FunctionLibrary:359 - Books
-2014-04-18 16:05:59 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:05:59 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:05:59 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:05:59 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:05:59 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:05:59 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:06:00 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[5]/a
-2014-04-18 16:06:00 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:04 INFO  FunctionLibrary:358 - Mugs & Gifts
-2014-04-18 16:06:04 INFO  FunctionLibrary:359 - Mugs & Gifts
-2014-04-18 16:06:04 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:06:04 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:04 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:05 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:05 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:05 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:06:05 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[6]/a
-2014-04-18 16:06:05 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:08 INFO  FunctionLibrary:358 - Turntables   not found
-2014-04-18 16:06:08 INFO  FunctionLibrary:359 - Turntables not found
-2014-04-18 16:06:08 INFO  FunctionLibrary:365 - Error in text - //*[@id='main']/div[2]/div[1]/h2
-2014-04-18 16:06:08 INFO  FunctionLibrary:366 - Actual - Turntables not found
-2014-04-18 16:06:08 INFO  FunctionLibrary:367 - Expected -Turntables   not found
-2014-04-18 16:06:08 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:06:08 ERROR FunctionLibrary:369 - error
-2014-04-18 16:06:09 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
-2014-04-18 16:06:09 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:09 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:10 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:10 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:10 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:06:10 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[7]/a
-2014-04-18 16:06:10 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:14 INFO  FunctionLibrary:358 - Patches
-2014-04-18 16:06:14 INFO  FunctionLibrary:359 - Patches
-2014-04-18 16:06:14 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:06:14 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:14 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:14 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:14 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:14 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[4]/a
-2014-04-18 16:06:15 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:18 INFO  FunctionLibrary:358 - Live at Amoeba
-2014-04-18 16:06:18 INFO  FunctionLibrary:359 - Live at Amoeba
-2014-04-18 16:06:18 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:06:18 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:18 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:19 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:19 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:19 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[5]/a
-2014-04-18 16:06:19 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:23 INFO  FunctionLibrary:358 - What's In My Bag?
-2014-04-18 16:06:23 INFO  FunctionLibrary:359 - What's In My Bag?
-2014-04-18 16:06:23 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:06:23 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:23 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:23 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:23 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:23 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[6]/a
-2014-04-18 16:06:24 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:27 INFO  FunctionLibrary:358 - Our Stores
-2014-04-18 16:06:27 INFO  FunctionLibrary:359 - Our Stores
-2014-04-18 16:06:27 INFO  FunctionLibrary:87 - Test Scenario Result --Pass
-2014-04-18 16:06:28 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
-2014-04-18 16:06:28 INFO  FunctionLibrary:56 - Navigate To Test Scenario Sheet
-2014-04-18 16:06:28 INFO  FunctionLibrary:62 - Loading Test Data Work Book
-2014-04-18 16:06:28 INFO  FunctionLibrary:71 - Passing Parameters Driver Script to ContolScript
-2014-04-18 16:06:28 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:28 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[1]/a
-2014-04-18 16:06:29 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:33 INFO  FunctionLibrary:358 - New Release
-2014-04-18 16:06:33 INFO  FunctionLibrary:359 - New Releases
-2014-04-18 16:06:33 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 16:06:33 INFO  FunctionLibrary:366 - Actual - New Releases
-2014-04-18 16:06:33 INFO  FunctionLibrary:367 - Expected -New Release
-2014-04-18 16:06:33 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:06:33 ERROR FunctionLibrary:369 - error
-2014-04-18 16:06:36 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:36 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[2]/a
-2014-04-18 16:06:36 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:41 INFO  FunctionLibrary:358 - Download
-2014-04-18 16:06:41 INFO  FunctionLibrary:359 - Downloads
-2014-04-18 16:06:41 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav[1]/header/h3
-2014-04-18 16:06:41 INFO  FunctionLibrary:366 - Actual - Downloads
-2014-04-18 16:06:41 INFO  FunctionLibrary:367 - Expected -Download
-2014-04-18 16:06:41 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:06:41 ERROR FunctionLibrary:369 - error
-2014-04-18 16:06:43 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:43 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[3]/a
-2014-04-18 16:06:43 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:48 INFO  FunctionLibrary:358 - CD & Vinyl
-2014-04-18 16:06:48 INFO  FunctionLibrary:359 - CD & Vinyl
-2014-04-18 16:06:48 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:48 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[4]/a
-2014-04-18 16:06:48 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:51 INFO  FunctionLibrary:358 - Music We Like
-2014-04-18 16:06:51 INFO  FunctionLibrary:359 - Music We Like
-2014-04-18 16:06:51 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:52 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[5]/a
-2014-04-18 16:06:52 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:55 INFO  FunctionLibrary:358 - Labels
-2014-04-18 16:06:55 INFO  FunctionLibrary:359 - Labels
-2014-04-18 16:06:55 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:06:55 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[6]/a
-2014-04-18 16:06:55 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:06:58 INFO  FunctionLibrary:358 - Free Download
-2014-04-18 16:06:58 INFO  FunctionLibrary:359 - Free Downloads
-2014-04-18 16:06:58 INFO  FunctionLibrary:365 - Error in text - //*[@id='sidebar']/nav/header/h3
-2014-04-18 16:06:58 INFO  FunctionLibrary:366 - Actual - Free Downloads
-2014-04-18 16:06:58 INFO  FunctionLibrary:367 - Expected -Free Download
-2014-04-18 16:06:58 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:06:58 ERROR FunctionLibrary:369 - error
-2014-04-18 16:07:00 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:07:00 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[7]/a
-2014-04-18 16:07:00 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:03 INFO  FunctionLibrary:358 - Top Sellers
-2014-04-18 16:07:03 INFO  FunctionLibrary:359 - Top Sellers
-2014-04-18 16:07:03 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:07:03 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[8]/a
-2014-04-18 16:07:03 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:09 INFO  FunctionLibrary:358 - Vinyl Vaults
-2014-04-18 16:07:09 INFO  FunctionLibrary:359 - Vinyl Vaults
-2014-04-18 16:07:09 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[1]/a
-2014-04-18 16:07:10 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[1]/ul/li[9]/a
-2014-04-18 16:07:10 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:13 INFO  FunctionLibrary:358 - Home Grown
-2014-04-18 16:07:13 INFO  FunctionLibrary:359 - Home Grown
-2014-04-18 16:07:13 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 16:07:13 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[1]/a
-2014-04-18 16:07:13 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:17 INFO  FunctionLibrary:358 - DVD & Blu-Ray
-2014-04-18 16:07:17 INFO  FunctionLibrary:359 - DVD & Blu-Ray
-2014-04-18 16:07:17 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[2]/a
-2014-04-18 16:07:17 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[2]/ul/li[2]/a
-2014-04-18 16:07:17 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:20 INFO  FunctionLibrary:358 - Movies We Like
-2014-04-18 16:07:20 INFO  FunctionLibrary:359 - Movies We Like
-2014-04-18 16:07:20 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:20 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[2]/a
-2014-04-18 16:07:21 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:23 INFO  FunctionLibrary:358 - Amoeba
-2014-04-18 16:07:23 INFO  FunctionLibrary:359 - Amoeba
-2014-04-18 16:07:23 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:23 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[3]/a
-2014-04-18 16:07:23 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:26 INFO  FunctionLibrary:358 - Posters
-2014-04-18 16:07:26 INFO  FunctionLibrary:359 - Posters
-2014-04-18 16:07:26 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:27 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[4]/a
-2014-04-18 16:07:27 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:30 INFO  FunctionLibrary:358 - Books
-2014-04-18 16:07:30 INFO  FunctionLibrary:359 - Books
-2014-04-18 16:07:30 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:30 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[5]/a
-2014-04-18 16:07:30 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:32 INFO  FunctionLibrary:358 - Mugs & Gifts
-2014-04-18 16:07:33 INFO  FunctionLibrary:359 - Mugs & Gifts
-2014-04-18 16:07:33 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:33 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[6]/a
-2014-04-18 16:07:33 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:35 INFO  FunctionLibrary:358 - Turntables   not found
-2014-04-18 16:07:35 INFO  FunctionLibrary:359 - Turntables not found
-2014-04-18 16:07:35 INFO  FunctionLibrary:365 - Error in text - //*[@id='main']/div[2]/div[1]/h2
-2014-04-18 16:07:35 INFO  FunctionLibrary:366 - Actual - Turntables not found
-2014-04-18 16:07:35 INFO  FunctionLibrary:367 - Expected -Turntables   not found
-2014-04-18 16:07:35 FATAL FunctionLibrary:368 - test verify
-2014-04-18 16:07:35 ERROR FunctionLibrary:369 - error
-2014-04-18 16:07:37 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='primary-nav']/ul/li[3]/a
-2014-04-18 16:07:37 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[3]/ul/li[7]/a
-2014-04-18 16:07:37 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:40 INFO  FunctionLibrary:358 - Patches
-2014-04-18 16:07:40 INFO  FunctionLibrary:359 - Patches
-2014-04-18 16:07:40 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[4]/a
-2014-04-18 16:07:40 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:43 INFO  FunctionLibrary:358 - Live at Amoeba
-2014-04-18 16:07:43 INFO  FunctionLibrary:359 - Live at Amoeba
-2014-04-18 16:07:43 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[5]/a
-2014-04-18 16:07:43 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:47 INFO  FunctionLibrary:358 - What's In My Bag?
-2014-04-18 16:07:47 INFO  FunctionLibrary:359 - What's In My Bag?
-2014-04-18 16:07:47 INFO  FunctionLibrary:65 - Clicking on Button //*[@id='primary-nav']/ul/li[6]/a
-2014-04-18 16:07:47 INFO  FunctionLibrary:87 - Verifying Text
-2014-04-18 16:07:50 INFO  FunctionLibrary:358 - Our Stores
-2014-04-18 16:07:50 INFO  FunctionLibrary:359 - Our Stores
-2014-04-18 16:07:50 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous6010245274931282393webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous6010245274931282393webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396)
+2014-04-23 17:48:00 INFO  FunctionLibrary:75 - Test Scenario Result --Fail
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File
+2014-04-23 17:48:00 INFO  FunctionLibrary:52 - Selecting Test Scenario From Controller File

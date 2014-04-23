@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium TestNG Suite" parallel="tests"
+    thread-count="5">
+    <test name="Selenium TestNG - 1">
+    <parameters>
+	    <parameter name="platform" value="Windows" />
+        <parameter name="browser" value="firefox" />
+        <parameter name="port" value="4444" />
+        </parameters>
+        <classes>
+			 <!--<class name="com.projectname.base.Hdfc1" ></class> -->
+			 <class name="com.projectname.grid.HDFC" />
+			 
+        </classes>
+     </test>
+      <!--  <test name="Selenium TestNG - 2">
+       	<parameter name="platform" value="Windows" />
+        <parameter name="browser" value="chrome" />
+        <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.projectname.base.Hdfc1" />
+        </classes>
+    </test>  -->
+     <!--<test name="Selenium TestNG - 3">
+     	<parameter name="platform" value="MAC" />
+        <parameter name="browser" value="firefox" />
+        <parameter name="port" value="4444" />
+        <classes>
+			 <class name="com.projectname.base.HDFC" ></class> 
+        </classes>
+    </test>  -->
+	 <!--<test name="Selenium TestNG - 4">
+	    <parameter name="platform" value="MAC" />
+        <parameter name="browser" value="chrome" />
+        <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.projectname.base.naukri" />
+        </classes>
+    </test>
+     <test name="Selenium TestNG - 5">
+         	<parameter name="platform"value="LINUX" />
+            <parameter name="browser" value="firefox" />
+      	  <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.projectname.base.Mail_in_com" />
+        </classes>
+    </test>  -->
+     <!--   <test name="Selenium TestNG - 6">
+         	<parameter name="platform"value="LINUX" />
+            <parameter name="browser" value="chrome" />
+      	  <parameter name="port" value="4444" />
+        <classes>
+            <class name="com.projectname.base.Mail_in_com" />
+        </classes>
+    </test>  -->
+</suite>

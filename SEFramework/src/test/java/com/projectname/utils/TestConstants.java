@@ -6,8 +6,8 @@ public class TestConstants {
 	public static final String EMAIL_DIR_PATH="\\config\\EmailConfig.Properties";
 	public static final String CONTROLLER_DIR_PATH="\\config\\Controller.xls";
 	public static final String TEST_DATA_DIR_PATH="\\Testdata\\Testdata.xls";
-	public static final String CHROME_BROWSER_DIR_PATH="\\lib\\chromedriver.exe";
-	public static final String IE_BROWSER_DIR_PATH="\\lib\\IEDriverServer.exe";
+	public static final String CHROME_BROWSER_DIR_PATH="\\libs\\chromedriver.exe";
+	public static final String IE_BROWSER_DIR_PATH="\\libs\\IEDriverServer.exe";
 	public static final String TESTSUITE_RESULT_DIR_PATH="\\TestResults\\";
 	public static final String CSVFILE_CREATION_DIR_PATH="\\GraphicalReport\\data.csv";
 	public static final String PIECHART_HTML_PATH="\\GraphicalReport\\piechart.html";

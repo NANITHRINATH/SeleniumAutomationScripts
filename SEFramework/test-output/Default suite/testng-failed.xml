@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.projectname.scripts.DriverScriptTest">
+      <class name="com.projectname.grid.HDFC">
         <methods>
-          <include name="beforeClass"/>
-          <include name="driverScript"/>
+          <include name="newwindow"/>
+          <include name="frame"/>
+          <include name="hdfc"/>
         </methods>
-      </class> <!-- com.projectname.scripts.DriverScriptTest -->
+      </class> <!-- com.projectname.grid.HDFC -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
